@@ -384,4 +384,4 @@ Extremely restrictive input/output token limits.
 - voxtral-small-24b-2507
 
 
-© By Preatom YT
+© By Rongon Kairu
